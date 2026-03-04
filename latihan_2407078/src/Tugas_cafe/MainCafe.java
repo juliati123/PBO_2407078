@@ -1,4 +1,4 @@
-package latihan_pbo.cafe;
+package Tugas_cafe;
 import java.util.Scanner;
 
 class Cafe {
