@@ -1,3 +1,5 @@
+package Tugas_06_04_26;
+
 public class BangunDatar {
     private int panjang;
     private int lebar;
@@ -18,7 +20,8 @@ public class BangunDatar {
     }
 
     // Method hitung luas
+
     public int hitungLuas() {
-        return panjang * lebar;
+        return getPanjang() * getLebar();
     }
 }

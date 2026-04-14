@@ -1,5 +1,7 @@
 
-package Tugas1_2407078;
+package latihan_pbo.Tugas1_2407078;
+
+import Tugas1_2407078.BangunDatar;
 
 public class Persegi extends BangunDatar {
 

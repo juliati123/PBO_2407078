@@ -1,3 +1,5 @@
+package Tugas_06_04_26;
+
 public class BangunRuang extends BangunDatar {
     private int tinggi;
 
@@ -16,4 +18,8 @@ public class BangunRuang extends BangunDatar {
     public int hitungVolume() {
         return hitungLuas() * tinggi;
     }
+
+     public int hitungLuas() {
+        return getPanjang() * getLebar();
 } 
+}

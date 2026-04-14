@@ -1,4 +1,4 @@
-package Tugas1_2407078;
+package latihan_pbo.Tugas1_2407078;
 
 import java.util.Scanner;
 
